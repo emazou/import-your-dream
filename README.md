@@ -1,8 +1,8 @@
 # Import Your Dream
 Proyecto de impacto social diseñado para inspirar y capacitar a estudiantes de últimos grados en colegios ubicados en estratos 1, 2 y 3, introduciéndolos al mundo de la programación por medio de Python y la electrónica a través de Arduino. Nuestro objetivo es empoderar a los jóvenes para que se conviertan en creadores de tecnología y lleven sus sueños a la realidad.
 <div style="display: flex; justify-content: center;" width="100%" > 
-  <img src="https://i.ibb.co/SsvWfM3/png-transparent-arduino-hd-logo-removebg-preview.png" alt="png-transparent-arduino-hd-logo-removebg-preview" border="0" width="100">
   <img src="https://i.ibb.co/h9PGBqQ/python-removebg-preview.png" alt="python-removebg-preview" border="0"  width="70">
+  <img src="https://i.ibb.co/SsvWfM3/png-transparent-arduino-hd-logo-removebg-preview.png" alt="png-transparent-arduino-hd-logo-removebg-preview" border="0" width="100">
 </div>
 
 ## Objetivos del Proyecto
