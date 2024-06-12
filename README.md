@@ -62,7 +62,8 @@ Proyecto de impacto social diseñado para inspirar y capacitar a estudiantes de 
 ### Cómo contribuir
 Estamos siempre buscando voluntarios y patrocinadores para apoyar nuestro proyecto. Si estás interesado en contribuir, puedes hacerlo de las siguientes maneras:
 
-Voluntariado: Únete como instructor o asistente en nuestras sesiones.
-Donaciones: Contribuye con equipos, materiales o fondos para el proyecto.
+- Voluntariado: Únete como instructor o asistente en nuestras sesiones.
+- Donaciones: Contribuye con equipos, materiales o fondos para el proyecto.
 Para más información sobre cómo involucrarte, por favor contáctanos por medio de un [mazouribeestefania@gmail.com](mailto:mazouribeestefania@gmail.com?subject=Contribuir%20a%20Import%20Your%20Dream).
+
 Adicionalmente puedes hacer Fork del proyecto y sugerir ideas por medio de PR.
